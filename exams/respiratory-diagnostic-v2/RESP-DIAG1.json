@@ -1,0 +1,1112 @@
+{
+ "format": "exampad-import-v1",
+ "exam_code": "RESP-DIAG1",
+ "title": "Respiratory System",
+ "subtitle": "",
+ "subject_name": "Medical-Surgical Nursing",
+ "time_limit_seconds": 3600,
+ "review_style": "rightwrong",
+ "source": "Respiratory_Diagnostic_Exam_v2_FACULTY_COPY.pdf",
+ "items": [
+  {
+   "n": 1,
+   "situation_label": "Situation 1",
+   "scenario": "Rodel Santos, 46, a tricycle driver from Valenzuela City with a history of asthma, is brought to the emergency department of a tertiary hospital with chest tightness, cough, and shortness of breath that began after he cleaned a dusty bodega. Nurse Bea is assigned to him.",
+   "stem": "Thirty minutes after arrival, Rodel is still sitting upright and using his neck muscles to breathe. The loud wheezing heard earlier can no longer be heard, and breath sounds are now faint over both lungs. The nurse interprets this change as:",
+   "choices": [
+    "fluid collecting in both pleural spaces",
+    "expected fatigue after a long coughing spell",
+    "worsening airflow obstruction needing urgent intervention",
+    "resolving bronchospasm from his first nebulization"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: A 'silent chest' in a patient who is still working hard to breathe means so little air is moving that wheezes can no longer be produced. It signals severe obstruction and impending respiratory failure, so the nurse escalates care immediately.\nWhy not A: Pleural effusion develops gradually, gives dullness on percussion, and is not the explanation for a sudden loss of wheezing during an asthma attack.\nWhy not B: Calling this simple fatigue delays care. Fatigue of the breathing muscles here is itself a danger sign of respiratory failure.\nWhy not D: True improvement brings less work of breathing and better air entry, not faint breath sounds with continued accessory-muscle use.",
+   "why": [
+    "Pleural effusion develops gradually, gives dullness on percussion, and is not the explanation for a sudden loss of wheezing during an asthma attack.",
+    "Calling this simple fatigue delays care. Fatigue of the breathing muscles here is itself a danger sign of respiratory failure.",
+    "A 'silent chest' in a patient who is still working hard to breathe means so little air is moving that wheezes can no longer be produced. It signals severe obstruction and impending respiratory failure, so the nurse escalates care immediately.",
+    "True improvement brings less work of breathing and better air entry, not faint breath sounds with continued accessory-muscle use."
+   ]
+  },
+  {
+   "n": 2,
+   "situation_label": "Situation 1",
+   "scenario": "Rodel Santos, 46, a tricycle driver from Valenzuela City with a history of asthma, is brought to the emergency department of a tertiary hospital with chest tightness, cough, and shortness of breath that began after he cleaned a dusty bodega. Nurse Bea is assigned to him.",
+   "stem": "Six weeks later, Rodel's clinic spirometry is inconclusive, and a methacholine challenge is scheduled. Which result would confirm airway hyperresponsiveness?",
+   "choices": [
+    "FVC falls by 10% or more from baseline",
+    "FEV1 falls by 20% or more from baseline",
+    "FEV1 rises by 12% or more from baseline",
+    "Peak flow rises by 20% or more from baseline"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Remembering",
+   "rationale": "Why it is correct: Methacholine is a bronchoconstrictor. A positive challenge is a fall in FEV1 of at least 20% from baseline at or below the threshold dose or concentration (PD20/PC20).\nWhy not A: The challenge is judged on FEV1, not FVC, and the cut-off is a 20% fall.\nWhy not C: This is a positive bronchodilator reversibility response (with at least 200 mL), measured after a bronchodilator, not after methacholine.\nWhy not D: Methacholine narrows the airways, so flow falls rather than rises, and peak flow is not the diagnostic criterion.",
+   "why": [
+    "The challenge is judged on FEV1, not FVC, and the cut-off is a 20% fall.",
+    "Methacholine is a bronchoconstrictor. A positive challenge is a fall in FEV1 of at least 20% from baseline at or below the threshold dose or concentration (PD20/PC20).",
+    "This is a positive bronchodilator reversibility response (with at least 200 mL), measured after a bronchodilator, not after methacholine.",
+    "Methacholine narrows the airways, so flow falls rather than rises, and peak flow is not the diagnostic criterion."
+   ]
+  },
+  {
+   "n": 3,
+   "situation_label": "Situation 1",
+   "scenario": "Rodel Santos, 46, a tricycle driver from Valenzuela City with a history of asthma, is brought to the emergency department of a tertiary hospital with chest tightness, cough, and shortness of breath that began after he cleaned a dusty bodega. Nurse Bea is assigned to him.",
+   "stem": "In preparing Rodel for this test, which instruction should the nurse give?",
+   "choices": [
+    "Withhold your salbutamol inhaler for several hours before the test.",
+    "Double your inhaled steroid dose on the morning of the test.",
+    "Take two extra puffs of salbutamol an hour before the test.",
+    "Avoid all food and fluids starting at midnight before the test."
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Short-acting bronchodilators blunt the airway response and can give a false-negative result, so they are withheld beforehand (about 6 hours for salbutamol per the ATS/ERS standard). A rescue bronchodilator is still kept ready at the bedside during testing.\nWhy not B: Controller doses are not increased for the test; extra medicine can suppress the response.\nWhy not C: Pre-dosing with a bronchodilator would mask hyperresponsiveness and invalidate the result.\nWhy not D: Bronchoprovocation testing does not require fasting.",
+   "why": [
+    "Short-acting bronchodilators blunt the airway response and can give a false-negative result, so they are withheld beforehand (about 6 hours for salbutamol per the ATS/ERS standard). A rescue bronchodilator is still kept ready at the bedside during testing.",
+    "Controller doses are not increased for the test; extra medicine can suppress the response.",
+    "Pre-dosing with a bronchodilator would mask hyperresponsiveness and invalidate the result.",
+    "Bronchoprovocation testing does not require fasting."
+   ]
+  },
+  {
+   "n": 4,
+   "situation_label": "Situation 1",
+   "scenario": "Rodel Santos, 46, a tricycle driver from Valenzuela City with a history of asthma, is brought to the emergency department of a tertiary hospital with chest tightness, cough, and shortness of breath that began after he cleaned a dusty bodega. Nurse Bea is assigned to him.",
+   "stem": "Rodel is taught home peak flow monitoring. His personal best is 500 L/min. One evening his reading is 330 L/min and he feels slightly tight in the chest. Based on the zone system he was taught, Rodel should:",
+   "choices": [
+    "go straight to the emergency room without taking medicine",
+    "use his quick-relief inhaler and follow his written plan",
+    "take only his usual controller and recheck the next day",
+    "stop his controller until his readings return to normal"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: 330 ÷ 500 = 66% of personal best, which is the yellow zone (50–79%). The yellow zone calls for the reliever inhaler and the steps in the written asthma action plan, with follow-up if readings do not improve.\nWhy not A: Emergency care is the red-zone response (below 50%), and even then the reliever is used on the way.\nWhy not C: This under-treats a yellow-zone reading; waiting a day allows the attack to progress.\nWhy not D: Controllers treat the underlying inflammation and must not be stopped during worsening symptoms.",
+   "why": [
+    "Emergency care is the red-zone response (below 50%), and even then the reliever is used on the way.",
+    "330 ÷ 500 = 66% of personal best, which is the yellow zone (50–79%). The yellow zone calls for the reliever inhaler and the steps in the written asthma action plan, with follow-up if readings do not improve.",
+    "This under-treats a yellow-zone reading; waiting a day allows the attack to progress.",
+    "Controllers treat the underlying inflammation and must not be stopped during worsening symptoms."
+   ]
+  },
+  {
+   "n": 5,
+   "situation_label": "Situation 1",
+   "scenario": "Rodel Santos, 46, a tricycle driver from Valenzuela City with a history of asthma, is brought to the emergency department of a tertiary hospital with chest tightness, cough, and shortness of breath that began after he cleaned a dusty bodega. Nurse Bea is assigned to him.",
+   "stem": "Before discharge, which statement by Rodel shows a need for further teaching?",
+   "choices": [
+    "\"I will wear a mask and use a damp cloth when I clean.\"",
+    "\"I will keep my reliever inhaler with me while I am driving.\"",
+    "\"I will rinse my mouth with water after using my steroid inhaler.\"",
+    "\"I can stop my steroid inhaler once I feel well for a week.\""
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Inhaled corticosteroids are long-term controllers. Stopping them when symptoms ease lets airway inflammation return and raises the risk of another severe attack.\nWhy not A: Correct: this limits exposure to dust, his trigger.\nWhy not B: Correct: the reliever should always be within reach.\nWhy not C: Correct: rinsing prevents oral candidiasis and hoarseness.",
+   "why": [
+    "Correct: this limits exposure to dust, his trigger.",
+    "Correct: the reliever should always be within reach.",
+    "Correct: rinsing prevents oral candidiasis and hoarseness.",
+    "Inhaled corticosteroids are long-term controllers. Stopping them when symptoms ease lets airway inflammation return and raises the risk of another severe attack."
+   ]
+  },
+  {
+   "n": 6,
+   "situation_label": "Situation 2",
+   "scenario": "Lola Corazon \"Cora\" Villanueva, 69, a retired fish vendor from Navotas, smoked a pack a day for 40 years and cooked over a wood fire for decades. She is admitted to the medical ward for increasing breathlessness and thick yellow sputum. Nurse Carlo is assigned to her.",
+   "stem": "Cora's arterial blood gas on room air shows pH 7.33, PaCO2 56 mmHg, HCO3 31 mEq/L, and PaO2 57 mmHg. The nurse interprets this as:",
+   "choices": [
+    "uncompensated respiratory acidosis",
+    "fully compensated respiratory acidosis",
+    "partially compensated respiratory acidosis",
+    "partially compensated metabolic alkalosis"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: The pH is acidotic and the PaCO2 is high, so the primary problem is respiratory acidosis. The HCO3 is already elevated (renal compensation), but the pH is still outside 7.35–7.45, so compensation is only partial.\nWhy not A: An elevated HCO3 of 31 shows the kidneys have already begun to compensate.\nWhy not B: Full compensation would bring the pH back within 7.35–7.45; 7.33 is still acidotic.\nWhy not D: The pH is acidotic, not alkalotic, and the high PaCO2 matches the pH change, so the primary disorder is respiratory.",
+   "why": [
+    "An elevated HCO3 of 31 shows the kidneys have already begun to compensate.",
+    "Full compensation would bring the pH back within 7.35–7.45; 7.33 is still acidotic.",
+    "The pH is acidotic and the PaCO2 is high, so the primary problem is respiratory acidosis. The HCO3 is already elevated (renal compensation), but the pH is still outside 7.35–7.45, so compensation is only partial.",
+    "The pH is acidotic, not alkalotic, and the high PaCO2 matches the pH change, so the primary disorder is respiratory."
+   ]
+  },
+  {
+   "n": 7,
+   "situation_label": "Situation 2",
+   "scenario": "Lola Corazon \"Cora\" Villanueva, 69, a retired fish vendor from Navotas, smoked a pack a day for 40 years and cooked over a wood fire for decades. She is admitted to the medical ward for increasing breathlessness and thick yellow sputum. Nurse Carlo is assigned to her.",
+   "stem": "Cora's SpO2 is 84%. The physician orders oxygen to keep her SpO2 between 88% and 92%. Which delivery method should the nurse prepare?",
+   "choices": [
+    "Nasal cannula at 6 L/min",
+    "Venturi mask set at 28%",
+    "Simple face mask at 8 L/min",
+    "Non-rebreather mask at 15 L/min"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: A Venturi mask delivers a precise, fixed FiO2, which makes it the best device for controlled low-dose oxygen in a client who retains CO2 and has a narrow target range.\nWhy not A: 6 L/min is the top of the cannula range (about 44% FiO2), too high and imprecise for this target.\nWhy not C: Delivers about 40–60% FiO2 with variable accuracy, which is not controlled enough here.\nWhy not D: Delivers very high FiO2, which can worsen hypercapnia in a CO2 retainer and overshoot the target.",
+   "why": [
+    "6 L/min is the top of the cannula range (about 44% FiO2), too high and imprecise for this target.",
+    "A Venturi mask delivers a precise, fixed FiO2, which makes it the best device for controlled low-dose oxygen in a client who retains CO2 and has a narrow target range.",
+    "Delivers about 40–60% FiO2 with variable accuracy, which is not controlled enough here.",
+    "Delivers very high FiO2, which can worsen hypercapnia in a CO2 retainer and overshoot the target."
+   ]
+  },
+  {
+   "n": 8,
+   "situation_label": "Situation 2",
+   "scenario": "Lola Corazon \"Cora\" Villanueva, 69, a retired fish vendor from Navotas, smoked a pack a day for 40 years and cooked over a wood fire for decades. She is admitted to the medical ward for increasing breathlessness and thick yellow sputum. Nurse Carlo is assigned to her.",
+   "stem": "Her post-bronchodilator spirometry shows an FEV1/FVC of 0.58 and an FEV1 of 42% of predicted. Using the GOLD grading of airflow limitation, the nurse classifies this as:",
+   "choices": [
+    "GOLD 1",
+    "GOLD 2",
+    "GOLD 3",
+    "GOLD 4"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: An FEV1/FVC below 0.70 confirms persistent airflow limitation. GOLD grades severity by FEV1 % predicted: GOLD 1 ≥80%, GOLD 2 50–79%, GOLD 3 30–49% (severe), GOLD 4 <30%. 42% falls in GOLD 3.\nWhy not A: GOLD 1 (mild) requires an FEV1 of 80% predicted or higher.\nWhy not B: GOLD 2 (moderate) is an FEV1 of 50–79% predicted.\nWhy not D: GOLD 4 (very severe) is an FEV1 below 30% predicted.",
+   "why": [
+    "GOLD 1 (mild) requires an FEV1 of 80% predicted or higher.",
+    "GOLD 2 (moderate) is an FEV1 of 50–79% predicted.",
+    "An FEV1/FVC below 0.70 confirms persistent airflow limitation. GOLD grades severity by FEV1 % predicted: GOLD 1 ≥80%, GOLD 2 50–79%, GOLD 3 30–49% (severe), GOLD 4 <30%. 42% falls in GOLD 3.",
+    "GOLD 4 (very severe) is an FEV1 below 30% predicted."
+   ]
+  },
+  {
+   "n": 9,
+   "situation_label": "Situation 2",
+   "scenario": "Lola Corazon \"Cora\" Villanueva, 69, a retired fish vendor from Navotas, smoked a pack a day for 40 years and cooked over a wood fire for decades. She is admitted to the medical ward for increasing breathlessness and thick yellow sputum. Nurse Carlo is assigned to her.",
+   "stem": "After teaching pursed-lip breathing, which statement by Cora shows she understands why it helps?",
+   "choices": [
+    "\"It keeps my small airways open longer when I breathe out.\"",
+    "\"It trains my neck muscles to do more of the breathing work.\"",
+    "\"It helps me breathe out faster so my lungs empty quickly.\"",
+    "\"It loosens my thick sputum so that I can cough it out.\""
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Understanding",
+   "rationale": "Why it is correct: Exhaling against pursed lips creates back-pressure that splints the small airways open, reduces air trapping, and slows the breathing rate.\nWhy not B: The aim is to reduce accessory-muscle use, not increase it.\nWhy not C: The technique slows exhalation; a long, controlled breath out is the goal.\nWhy not D: Airway clearance techniques (huff coughing, hydration) loosen sputum; pursed-lip breathing targets air trapping.",
+   "why": [
+    "Exhaling against pursed lips creates back-pressure that splints the small airways open, reduces air trapping, and slows the breathing rate.",
+    "The aim is to reduce accessory-muscle use, not increase it.",
+    "The technique slows exhalation; a long, controlled breath out is the goal.",
+    "Airway clearance techniques (huff coughing, hydration) loosen sputum; pursed-lip breathing targets air trapping."
+   ]
+  },
+  {
+   "n": 10,
+   "situation_label": "Situation 2",
+   "scenario": "Lola Corazon \"Cora\" Villanueva, 69, a retired fish vendor from Navotas, smoked a pack a day for 40 years and cooked over a wood fire for decades. She is admitted to the medical ward for increasing breathlessness and thick yellow sputum. Nurse Carlo is assigned to her.",
+   "stem": "On day 3, Carlo notes distended neck veins, bilateral ankle edema, and an enlarged, tender liver. Cora has no new crackles in her lungs. These findings most likely indicate:",
+   "choices": [
+    "circulatory overload from her IV fluid infusion",
+    "right ventricular failure from pulmonary hypertension",
+    "left ventricular failure from coronary artery disease",
+    "liver cirrhosis from long exposure to wood smoke"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Chronic hypoxemia in COPD constricts the pulmonary vessels, causing pulmonary hypertension that strains the right ventricle (cor pulmonale). Back-up into the systemic veins produces JVD, peripheral edema, and hepatomegaly.\nWhy not A: Fluid overload would usually bring new crackles, and the pattern fits her chronic lung disease better.\nWhy not C: Left-sided failure backs up into the lungs, causing crackles and orthopnea, which are absent here.\nWhy not D: Wood smoke damages the lungs, not the liver, and cirrhosis does not explain distended neck veins.",
+   "why": [
+    "Fluid overload would usually bring new crackles, and the pattern fits her chronic lung disease better.",
+    "Chronic hypoxemia in COPD constricts the pulmonary vessels, causing pulmonary hypertension that strains the right ventricle (cor pulmonale). Back-up into the systemic veins produces JVD, peripheral edema, and hepatomegaly.",
+    "Left-sided failure backs up into the lungs, causing crackles and orthopnea, which are absent here.",
+    "Wood smoke damages the lungs, not the liver, and cirrhosis does not explain distended neck veins."
+   ]
+  },
+  {
+   "n": 11,
+   "situation_label": "Situation 3",
+   "scenario": "Paolo Mendoza, 20, a tall, thin architecture student, is rushed to the emergency department of a Manila hospital after a sudden, sharp right-sided chest pain and breathlessness while he was seated in class. There is no history of trauma. Nurse Diane assists in his care.",
+   "stem": "On assessment of Paolo's right chest, which combination of findings should the nurse expect?",
+   "choices": [
+    "diminished breath sounds with hyperresonant percussion",
+    "absent fremitus with flat, dull percussion",
+    "increased tactile fremitus with dull percussion",
+    "bronchial breath sounds with dull percussion"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: In a primary spontaneous pneumothorax, air in the pleural space collapses the lung: breath sounds are diminished or absent, percussion is hyperresonant, and fremitus is decreased.\nWhy not B: Dullness or flatness points to fluid (pleural effusion); air gives hyperresonance.\nWhy not C: Increased fremitus means denser lung tissue (consolidation), not air outside the lung.\nWhy not D: This pair points to consolidation such as pneumonia.",
+   "why": [
+    "In a primary spontaneous pneumothorax, air in the pleural space collapses the lung: breath sounds are diminished or absent, percussion is hyperresonant, and fremitus is decreased.",
+    "Dullness or flatness points to fluid (pleural effusion); air gives hyperresonance.",
+    "Increased fremitus means denser lung tissue (consolidation), not air outside the lung.",
+    "This pair points to consolidation such as pneumonia."
+   ]
+  },
+  {
+   "n": 12,
+   "situation_label": "Situation 3",
+   "scenario": "Paolo Mendoza, 20, a tall, thin architecture student, is rushed to the emergency department of a Manila hospital after a sudden, sharp right-sided chest pain and breathlessness while he was seated in class. There is no history of trauma. Nurse Diane assists in his care.",
+   "stem": "While waiting for chest tube insertion, Paolo becomes restless. His trachea has shifted to the left, BP is 82/50, HR is 134, and his neck veins are distended. The nurse's priority is to:",
+   "choices": [
+    "turn him onto his left side and reassess in 15 minutes",
+    "give the prescribed morphine to relieve his chest pain",
+    "prepare for immediate needle decompression on the affected side",
+    "draw an arterial blood gas before notifying the physician"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Tracheal shift away from the affected side, hypotension, tachycardia, and JVD signal a tension pneumothorax, a life-threatening emergency. Air must be released at once by needle decompression, followed by a chest tube.\nWhy not A: Waiting wastes critical minutes; tension pneumothorax can cause cardiac arrest quickly.\nWhy not B: Analgesia does not treat the cause and may worsen hypotension and breathing.\nWhy not D: Tension pneumothorax is a clinical diagnosis; tests must not delay decompression.",
+   "why": [
+    "Waiting wastes critical minutes; tension pneumothorax can cause cardiac arrest quickly.",
+    "Analgesia does not treat the cause and may worsen hypotension and breathing.",
+    "Tracheal shift away from the affected side, hypotension, tachycardia, and JVD signal a tension pneumothorax, a life-threatening emergency. Air must be released at once by needle decompression, followed by a chest tube.",
+    "Tension pneumothorax is a clinical diagnosis; tests must not delay decompression."
+   ]
+  },
+  {
+   "n": 13,
+   "situation_label": "Situation 3",
+   "scenario": "Paolo Mendoza, 20, a tall, thin architecture student, is rushed to the emergency department of a Manila hospital after a sudden, sharp right-sided chest pain and breathlessness while he was seated in class. There is no history of trauma. Nurse Diane assists in his care.",
+   "stem": "A chest tube attached to a water-seal unit is inserted. On day 2, the fluid in the water-seal chamber rises and falls with each breath, and bubbles appear only when Paolo coughs. The nurse interprets this as:",
+   "choices": [
+    "full lung re-expansion ready for tube removal",
+    "an expected sign of a patent, working tube",
+    "an air leak that requires clamping the tube",
+    "a clot that requires milking of the tube"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Tidaling with breathing shows the tube is open and connected to the pleural space. Intermittent bubbling on coughing or exhalation is expected while air is still leaving a pneumothorax.\nWhy not A: When the lung has fully re-expanded, tidaling and bubbling stop.\nWhy not C: A system leak gives continuous bubbling; clamping is not done routinely and can cause tension pneumothorax.\nWhy not D: An obstruction stops tidaling; here the fluid still moves with each breath.",
+   "why": [
+    "When the lung has fully re-expanded, tidaling and bubbling stop.",
+    "Tidaling with breathing shows the tube is open and connected to the pleural space. Intermittent bubbling on coughing or exhalation is expected while air is still leaving a pneumothorax.",
+    "A system leak gives continuous bubbling; clamping is not done routinely and can cause tension pneumothorax.",
+    "An obstruction stops tidaling; here the fluid still moves with each breath."
+   ]
+  },
+  {
+   "n": 14,
+   "situation_label": "Situation 3",
+   "scenario": "Paolo Mendoza, 20, a tall, thin architecture student, is rushed to the emergency department of a Manila hospital after a sudden, sharp right-sided chest pain and breathlessness while he was seated in class. There is no history of trauma. Nurse Diane assists in his care.",
+   "stem": "While Paolo walks to the bathroom, the chest tube separates from the drainage tubing. The nurse's immediate action is to:",
+   "choices": [
+    "submerge the tube end about 2 cm in sterile water",
+    "clamp the tube near the chest until the physician comes",
+    "raise the drainage unit above the level of his chest",
+    "pull out the chest tube and cover the site with gauze"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Placing the open end under 2 cm of sterile water creates an emergency water seal, so air can escape but not re-enter the pleural space, until a new system is attached.\nWhy not B: Prolonged clamping traps air in the pleural space and can cause a tension pneumothorax.\nWhy not C: Raising the unit causes backflow and does nothing for the disconnection.\nWhy not D: A disconnected tube is never removed; this would collapse the lung further.",
+   "why": [
+    "Placing the open end under 2 cm of sterile water creates an emergency water seal, so air can escape but not re-enter the pleural space, until a new system is attached.",
+    "Prolonged clamping traps air in the pleural space and can cause a tension pneumothorax.",
+    "Raising the unit causes backflow and does nothing for the disconnection.",
+    "A disconnected tube is never removed; this would collapse the lung further."
+   ]
+  },
+  {
+   "n": 15,
+   "situation_label": "Situation 3",
+   "scenario": "Paolo Mendoza, 20, a tall, thin architecture student, is rushed to the emergency department of a Manila hospital after a sudden, sharp right-sided chest pain and breathlessness while he was seated in class. There is no history of trauma. Nurse Diane assists in his care.",
+   "stem": "Before discharge, which statement by Paolo shows correct understanding of preventing a recurrence?",
+   "choices": [
+    "\"A recurrence is unlikely because tall, thin people rarely get this.\"",
+    "\"My lung has fully healed, so I no longer need follow-up.\"",
+    "\"Scuba diving next month is safe now that my tube is out.\"",
+    "\"Smoking raises my risk of another lung collapse, so I will quit.\""
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Understanding",
+   "rationale": "Why it is correct: Smoking is the main modifiable risk factor for recurrence of primary spontaneous pneumothorax, so stopping smoking is a key part of discharge teaching.\nWhy not A: Tall, thin young males are the classic high-risk group.\nWhy not B: Recurrence is common (about one in three), so follow-up and warning signs must be taught.\nWhy not C: Diving involves pressure changes that can cause recurrence; it is generally avoided.",
+   "why": [
+    "Tall, thin young males are the classic high-risk group.",
+    "Recurrence is common (about one in three), so follow-up and warning signs must be taught.",
+    "Diving involves pressure changes that can cause recurrence; it is generally avoided.",
+    "Smoking is the main modifiable risk factor for recurrence of primary spontaneous pneumothorax, so stopping smoking is a key part of discharge teaching."
+   ]
+  },
+  {
+   "n": 16,
+   "situation_label": "Situation 4",
+   "scenario": "Ernesto Dela Cruz, 55, a construction foreman from Pasig City with a 30 pack-year smoking history, is scheduled for an elective open cholecystectomy. Nurse Patricia prepares him for surgery, including his preoperative pulmonary function test, and follows him after the operation.",
+   "stem": "Ernesto's pulmonary function test shows an FEV1/FVC of 0.64 with increased total lung capacity and residual volume. The nurse recognizes this as a pattern of:",
+   "choices": [
+    "neuromuscular respiratory weakness",
+    "normal age-related decline",
+    "obstructive ventilatory defect",
+    "restrictive ventilatory defect"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: A reduced FEV1/FVC (below 0.70) shows airflow limitation, and a raised TLC and RV show air trapping and hyperinflation, the obstructive pattern seen in smokers with COPD.\nWhy not A: Muscle weakness reduces lung volumes; it does not raise TLC.\nWhy not B: Aging lowers flows slightly but does not cause a ratio below 0.70 with hyperinflation.\nWhy not D: Restriction lowers TLC, and the FEV1/FVC is normal or high.",
+   "why": [
+    "Muscle weakness reduces lung volumes; it does not raise TLC.",
+    "Aging lowers flows slightly but does not cause a ratio below 0.70 with hyperinflation.",
+    "A reduced FEV1/FVC (below 0.70) shows airflow limitation, and a raised TLC and RV show air trapping and hyperinflation, the obstructive pattern seen in smokers with COPD.",
+    "Restriction lowers TLC, and the FEV1/FVC is normal or high."
+   ]
+  },
+  {
+   "n": 17,
+   "situation_label": "Situation 4",
+   "scenario": "Ernesto Dela Cruz, 55, a construction foreman from Pasig City with a 30 pack-year smoking history, is scheduled for an elective open cholecystectomy. Nurse Patricia prepares him for surgery, including his preoperative pulmonary function test, and follows him after the operation.",
+   "stem": "Ernesto asks why one lung volume cannot be measured by simple spirometry. The nurse explains that it is the air that stays in the lungs even after the most forceful exhalation. This volume is the:",
+   "choices": [
+    "inspiratory reserve volume",
+    "tidal volume",
+    "expiratory reserve volume",
+    "residual volume"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Understanding",
+   "rationale": "Why it is correct: Residual volume (about 1,200 mL) never leaves the lungs, so a spirometer cannot record it; it is measured by body plethysmography or gas dilution.\nWhy not A: This is the extra air that can be inhaled after a normal breath, also measurable by spirometry.\nWhy not B: Tidal volume (about 500 mL) moves in and out with each quiet breath and is easily measured.\nWhy not C: This is the extra air that can be forcefully exhaled after a normal breath, so spirometry measures it.",
+   "why": [
+    "This is the extra air that can be inhaled after a normal breath, also measurable by spirometry.",
+    "Tidal volume (about 500 mL) moves in and out with each quiet breath and is easily measured.",
+    "This is the extra air that can be forcefully exhaled after a normal breath, so spirometry measures it.",
+    "Residual volume (about 1,200 mL) never leaves the lungs, so a spirometer cannot record it; it is measured by body plethysmography or gas dilution."
+   ]
+  },
+  {
+   "n": 18,
+   "situation_label": "Situation 4",
+   "scenario": "Ernesto Dela Cruz, 55, a construction foreman from Pasig City with a 30 pack-year smoking history, is scheduled for an elective open cholecystectomy. Nurse Patricia prepares him for surgery, including his preoperative pulmonary function test, and follows him after the operation.",
+   "stem": "Ernesto asks which muscle does most of the work when he breathes in quietly. The nurse answers:",
+   "choices": [
+    "diaphragm",
+    "external intercostals",
+    "sternocleidomastoid",
+    "scalene muscles"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Remembering",
+   "rationale": "Why it is correct: The diaphragm is the primary muscle of inspiration; its contraction enlarges the chest cavity and accounts for most of the work of quiet breathing.\nWhy not B: They assist inspiration by lifting the ribs but contribute less than the diaphragm.\nWhy not C: An accessory muscle used in forced or labored breathing.\nWhy not D: Accessory muscles that raise the upper ribs during forced inspiration.",
+   "why": [
+    "The diaphragm is the primary muscle of inspiration; its contraction enlarges the chest cavity and accounts for most of the work of quiet breathing.",
+    "They assist inspiration by lifting the ribs but contribute less than the diaphragm.",
+    "An accessory muscle used in forced or labored breathing.",
+    "Accessory muscles that raise the upper ribs during forced inspiration."
+   ]
+  },
+  {
+   "n": 19,
+   "situation_label": "Situation 4",
+   "scenario": "Ernesto Dela Cruz, 55, a construction foreman from Pasig City with a 30 pack-year smoking history, is scheduled for an elective open cholecystectomy. Nurse Patricia prepares him for surgery, including his preoperative pulmonary function test, and follows him after the operation.",
+   "stem": "After surgery, the nurse teaches Ernesto to use an incentive spirometer. Which instruction is correct?",
+   "choices": [
+    "\"Take quick, short breaths to make the ball rise quickly.\"",
+    "\"Use it once a day, at bedtime, to avoid tiring yourself.\"",
+    "\"Inhale slowly and deeply, then hold your breath for 3 to 5 seconds.\"",
+    "\"Blow out into the mouthpiece as hard and as fast as you can.\""
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: A slow, deep, sustained inhalation with a breath-hold keeps the alveoli open and prevents postoperative atelectasis. It is usually done about 10 times an hour while awake.\nWhy not A: Quick shallow breaths do not open collapsed alveoli; the breath must be slow and sustained.\nWhy not B: Once a day is far too infrequent to prevent atelectasis.\nWhy not D: The incentive spirometer measures inspiration, not forced exhalation.",
+   "why": [
+    "Quick shallow breaths do not open collapsed alveoli; the breath must be slow and sustained.",
+    "Once a day is far too infrequent to prevent atelectasis.",
+    "A slow, deep, sustained inhalation with a breath-hold keeps the alveoli open and prevents postoperative atelectasis. It is usually done about 10 times an hour while awake.",
+    "The incentive spirometer measures inspiration, not forced exhalation."
+   ]
+  },
+  {
+   "n": 20,
+   "situation_label": "Situation 4",
+   "scenario": "Ernesto Dela Cruz, 55, a construction foreman from Pasig City with a 30 pack-year smoking history, is scheduled for an elective open cholecystectomy. Nurse Patricia prepares him for surgery, including his preoperative pulmonary function test, and follows him after the operation.",
+   "stem": "On postoperative day 3, Ernesto has a temperature of 38.6 °C. Over the right lower lobe, the nurse finds increased tactile fremitus, dullness to percussion, and bronchial breath sounds. These findings most suggest:",
+   "choices": [
+    "consolidation of lung tissue",
+    "hyperinflation of the alveoli",
+    "air in the pleural space",
+    "fluid in the pleural space"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Sound travels better through solid tissue, so consolidation (as in pneumonia) increases fremitus and produces bronchial breath sounds, while percussion becomes dull.\nWhy not B: Hyperinflation gives hyperresonance and decreased fremitus.\nWhy not C: Pleural air gives hyperresonance with decreased fremitus.\nWhy not D: Pleural fluid gives dullness but decreases fremitus and breath sounds.",
+   "why": [
+    "Sound travels better through solid tissue, so consolidation (as in pneumonia) increases fremitus and produces bronchial breath sounds, while percussion becomes dull.",
+    "Hyperinflation gives hyperresonance and decreased fremitus.",
+    "Pleural air gives hyperresonance with decreased fremitus.",
+    "Pleural fluid gives dullness but decreases fremitus and breath sounds."
+   ]
+  },
+  {
+   "n": 21,
+   "situation_label": "Situation 5",
+   "scenario": "Lolo Teodoro Bautista, 81, from Tondo, Manila, is brought to the emergency department by his granddaughter for two days of new confusion, poor appetite, and weakness. He has a mild cough, a respiratory rate of 26 breaths per minute, and a temperature of 37.3 °C. Nurse Ella coordinates his care.",
+   "stem": "The granddaughter says, \"Lolo is just getting old.\" The nurse recognizes that Teodoro's new confusion with only a slight temperature is most likely:",
+   "choices": [
+    "a side effect of his maintenance medicines",
+    "an expected change of normal aging",
+    "an early sign of Alzheimer disease",
+    "an atypical presentation of an acute infection"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Older adults often have blunted fever responses. Pneumonia may show up as new confusion, weakness, falls, or poor appetite, together with subtle cues such as tachypnea and cough.\nWhy not A: Drugs can cause delirium, but with cough and tachypnea, infection must be ruled out first.\nWhy not B: Acute confusion is never part of normal aging; it signals delirium with an underlying cause.\nWhy not C: Dementia develops over months to years, not over two days.",
+   "why": [
+    "Drugs can cause delirium, but with cough and tachypnea, infection must be ruled out first.",
+    "Acute confusion is never part of normal aging; it signals delirium with an underlying cause.",
+    "Dementia develops over months to years, not over two days.",
+    "Older adults often have blunted fever responses. Pneumonia may show up as new confusion, weakness, falls, or poor appetite, together with subtle cues such as tachypnea and cough."
+   ]
+  },
+  {
+   "n": 22,
+   "situation_label": "Situation 5",
+   "scenario": "Lolo Teodoro Bautista, 81, from Tondo, Manila, is brought to the emergency department by his granddaughter for two days of new confusion, poor appetite, and weakness. He has a mild cough, a respiratory rate of 26 breaths per minute, and a temperature of 37.3 °C. Nurse Ella coordinates his care.",
+   "stem": "A sputum culture is ordered for Teodoro. Which nursing action ensures a quality specimen?",
+   "choices": [
+    "Collect it after the first antibiotic dose has been given.",
+    "Collect it in the early morning after he rinses with water.",
+    "Collect his saliva instead if he cannot cough deeply.",
+    "Collect it after he gargles with an antiseptic mouthwash."
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Early-morning sputum is most concentrated. Rinsing with plain water reduces mouth contamination without killing organisms, and the specimen should be taken before antibiotics start.\nWhy not A: Antibiotics given first reduce the chance of growing the organism.\nWhy not C: Saliva is not sputum and gives an unreliable result.\nWhy not D: Antiseptic can kill organisms and give a false-negative culture.",
+   "why": [
+    "Antibiotics given first reduce the chance of growing the organism.",
+    "Early-morning sputum is most concentrated. Rinsing with plain water reduces mouth contamination without killing organisms, and the specimen should be taken before antibiotics start.",
+    "Saliva is not sputum and gives an unreliable result.",
+    "Antiseptic can kill organisms and give a false-negative culture."
+   ]
+  },
+  {
+   "n": 23,
+   "situation_label": "Situation 5",
+   "scenario": "Lolo Teodoro Bautista, 81, from Tondo, Manila, is brought to the emergency department by his granddaughter for two days of new confusion, poor appetite, and weakness. He has a mild cough, a respiratory rate of 26 breaths per minute, and a temperature of 37.3 °C. Nurse Ella coordinates his care.",
+   "stem": "The nurse recalls that the most common bacterial cause of community-acquired pneumonia is:",
+   "choices": [
+    "Pseudomonas aeruginosa",
+    "Mycoplasma pneumoniae",
+    "Streptococcus pneumoniae",
+    "Haemophilus influenzae"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Remembering",
+   "rationale": "Why it is correct: Streptococcus pneumoniae (pneumococcus) remains the most common bacterial cause of community-acquired pneumonia.\nWhy not A: Mainly linked to hospital-acquired and ventilator-associated pneumonia.\nWhy not B: A cause of 'atypical' pneumonia, mostly in younger adults.\nWhy not D: A common cause, especially in smokers and COPD, but less common than pneumococcus.",
+   "why": [
+    "Mainly linked to hospital-acquired and ventilator-associated pneumonia.",
+    "A cause of 'atypical' pneumonia, mostly in younger adults.",
+    "Streptococcus pneumoniae (pneumococcus) remains the most common bacterial cause of community-acquired pneumonia.",
+    "A common cause, especially in smokers and COPD, but less common than pneumococcus."
+   ]
+  },
+  {
+   "n": 24,
+   "situation_label": "Situation 5",
+   "scenario": "Lolo Teodoro Bautista, 81, from Tondo, Manila, is brought to the emergency department by his granddaughter for two days of new confusion, poor appetite, and weakness. He has a mild cough, a respiratory rate of 26 breaths per minute, and a temperature of 37.3 °C. Nurse Ella coordinates his care.",
+   "stem": "On his first night on the ward, four findings are reported to the nurse. Which requires immediate action?",
+   "choices": [
+    "Crackles at the right base, unchanged",
+    "SpO2 of 86% with accessory muscle use",
+    "Temperature of 37.8 °C with chills",
+    "Yellow sputum with a productive cough"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Low oxygen saturation with increased work of breathing is a breathing (B) problem and signals respiratory compromise, so it takes priority over the other findings.\nWhy not A: A stable, known finding does not need immediate action.\nWhy not C: Needs follow-up but is less urgent than hypoxemia.\nWhy not D: Expected with bacterial pneumonia and not immediately life-threatening.",
+   "why": [
+    "A stable, known finding does not need immediate action.",
+    "Low oxygen saturation with increased work of breathing is a breathing (B) problem and signals respiratory compromise, so it takes priority over the other findings.",
+    "Needs follow-up but is less urgent than hypoxemia.",
+    "Expected with bacterial pneumonia and not immediately life-threatening."
+   ]
+  },
+  {
+   "n": 25,
+   "situation_label": "Situation 5",
+   "scenario": "Lolo Teodoro Bautista, 81, from Tondo, Manila, is brought to the emergency department by his granddaughter for two days of new confusion, poor appetite, and weakness. He has a mild cough, a respiratory rate of 26 breaths per minute, and a temperature of 37.3 °C. Nurse Ella coordinates his care.",
+   "stem": "Teodoro's condition worsens and he is intubated in the ICU. Which nursing measure best helps prevent ventilator-associated pneumonia?",
+   "choices": [
+    "Change the ventilator circuit tubing every eight hours.",
+    "Keep him flat to promote drainage of lung secretions.",
+    "Limit oral care to once a day to prevent mucosal injury.",
+    "Keep the head of the bed elevated 30 to 45 degrees."
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Raising the head of the bed reduces aspiration of oropharyngeal and gastric secretions, a core part of the VAP-prevention bundle (with oral care, sedation breaks, and subglottic suctioning).\nWhy not A: Routine frequent circuit changes do not lower VAP and can raise it; change only when soiled or faulty.\nWhy not B: Lying flat increases aspiration and VAP risk.\nWhy not C: Frequent oral care is part of the bundle; limiting it lets bacteria build up.",
+   "why": [
+    "Routine frequent circuit changes do not lower VAP and can raise it; change only when soiled or faulty.",
+    "Lying flat increases aspiration and VAP risk.",
+    "Frequent oral care is part of the bundle; limiting it lets bacteria build up.",
+    "Raising the head of the bed reduces aspiration of oropharyngeal and gastric secretions, a core part of the VAP-prevention bundle (with oral care, sedation breaks, and subglottic suctioning)."
+   ]
+  },
+  {
+   "n": 26,
+   "situation_label": "Situation 6",
+   "scenario": "Jun-Jun Ramos, 29, a call-center agent from Quezon City, has had a productive cough for three weeks with afternoon fevers, night sweats, and weight loss. He is admitted to a city hospital after coughing up blood-streaked sputum and is later referred to the TB-DOTS facility in his barangay. Nurse Faye handles his care and teaching.",
+   "stem": "While Jun-Jun's diagnosis is being confirmed, which precaution should the nurse implement?",
+   "choices": [
+    "a shared room with gown and gloves for any contact",
+    "a single negative-pressure room and an N95 respirator for staff",
+    "a regular private room with a surgical mask for staff",
+    "a cohort room with another patient who has pneumonia"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: TB spreads through droplet nuclei that stay suspended in the air, so airborne precautions are needed: a negative-pressure (airborne infection isolation) room and fit-tested N95 respirators for staff.\nWhy not A: Contact precautions do not stop airborne droplet nuclei.\nWhy not C: A surgical mask does not protect staff; it is worn by the patient during transport.\nWhy not D: Cohorting exposes a non-TB patient to infection.",
+   "why": [
+    "Contact precautions do not stop airborne droplet nuclei.",
+    "TB spreads through droplet nuclei that stay suspended in the air, so airborne precautions are needed: a negative-pressure (airborne infection isolation) room and fit-tested N95 respirators for staff.",
+    "A surgical mask does not protect staff; it is worn by the patient during transport.",
+    "Cohorting exposes a non-TB patient to infection."
+   ]
+  },
+  {
+   "n": 27,
+   "situation_label": "Situation 6",
+   "scenario": "Jun-Jun Ramos, 29, a call-center agent from Quezon City, has had a productive cough for three weeks with afternoon fevers, night sweats, and weight loss. He is admitted to a city hospital after coughing up blood-streaked sputum and is later referred to the TB-DOTS facility in his barangay. Nurse Faye handles his care and teaching.",
+   "stem": "Under the DOH National TB Program, which test is recommended as the initial diagnostic test for a presumptive pulmonary TB case such as Jun-Jun?",
+   "choices": [
+    "Xpert MTB/RIF assay",
+    "interferon-gamma release assay",
+    "tuberculin skin test",
+    "chest radiograph alone"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Remembering",
+   "rationale": "Why it is correct: The DOH NTP uses WHO-recommended rapid diagnostic tests such as Xpert MTB/RIF on sputum as the primary test for presumptive TB, since it detects M. tuberculosis and rifampicin resistance within hours.\nWhy not B: Like the skin test, it shows infection and not active disease.\nWhy not C: Shows TB infection, not active disease, and cannot detect drug resistance.\nWhy not D: Useful for screening but cannot confirm TB bacteriologically.",
+   "why": [
+    "The DOH NTP uses WHO-recommended rapid diagnostic tests such as Xpert MTB/RIF on sputum as the primary test for presumptive TB, since it detects M. tuberculosis and rifampicin resistance within hours.",
+    "Like the skin test, it shows infection and not active disease.",
+    "Shows TB infection, not active disease, and cannot detect drug resistance.",
+    "Useful for screening but cannot confirm TB bacteriologically."
+   ]
+  },
+  {
+   "n": 28,
+   "situation_label": "Situation 6",
+   "scenario": "Jun-Jun Ramos, 29, a call-center agent from Quezon City, has had a productive cough for three weeks with afternoon fevers, night sweats, and weight loss. He is admitted to a city hospital after coughing up blood-streaked sputum and is later referred to the TB-DOTS facility in his barangay. Nurse Faye handles his care and teaching.",
+   "stem": "Jun-Jun's 34-year-old brother, who is HIV-positive, has his Mantoux test read at 48 hours: 6 mm of induration with 14 mm of redness. The nurse interprets the result as:",
+   "choices": [
+    "invalid, because it should have been read at 7 days",
+    "positive, because 5 mm of induration is his cut-off",
+    "negative, because his induration is below 10 mm",
+    "positive, because the redness is more than 10 mm"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Only induration is measured. For people with HIV and close contacts of an active case, 5 mm or more is positive, so 6 mm is positive for him.\nWhy not A: The Mantoux test is read at 48 to 72 hours.\nWhy not C: The 10 mm cut-off applies to other risk groups, not to people with HIV.\nWhy not D: Redness (erythema) is not measured; only the raised, hard area counts.",
+   "why": [
+    "The Mantoux test is read at 48 to 72 hours.",
+    "Only induration is measured. For people with HIV and close contacts of an active case, 5 mm or more is positive, so 6 mm is positive for him.",
+    "The 10 mm cut-off applies to other risk groups, not to people with HIV.",
+    "Redness (erythema) is not measured; only the raised, hard area counts."
+   ]
+  },
+  {
+   "n": 29,
+   "situation_label": "Situation 6",
+   "scenario": "Jun-Jun Ramos, 29, a call-center agent from Quezon City, has had a productive cough for three weeks with afternoon fevers, night sweats, and weight loss. He is admitted to a city hospital after coughing up blood-streaked sputum and is later referred to the TB-DOTS facility in his barangay. Nurse Faye handles his care and teaching.",
+   "stem": "After two months on the HRZE regimen, Jun-Jun reports numbness and tingling in both feet. The nurse anticipates which order?",
+   "choices": [
+    "allopurinol for pyrazinamide effects",
+    "cyanocobalamin (vitamin B12) injection",
+    "discontinuation of ethambutol",
+    "pyridoxine (vitamin B6) supplementation"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Isoniazid (H) interferes with pyridoxine and causes peripheral neuropathy. Vitamin B6 prevents and treats this side effect.\nWhy not A: Pyrazinamide raises uric acid (joint pain), not neuropathy.\nWhy not B: B12 deficiency can cause neuropathy, but the cause here is isoniazid-related B6 depletion.\nWhy not C: Ethambutol causes optic neuritis (vision changes), not foot numbness.",
+   "why": [
+    "Pyrazinamide raises uric acid (joint pain), not neuropathy.",
+    "B12 deficiency can cause neuropathy, but the cause here is isoniazid-related B6 depletion.",
+    "Ethambutol causes optic neuritis (vision changes), not foot numbness.",
+    "Isoniazid (H) interferes with pyridoxine and causes peripheral neuropathy. Vitamin B6 prevents and treats this side effect."
+   ]
+  },
+  {
+   "n": 30,
+   "situation_label": "Situation 6",
+   "scenario": "Jun-Jun Ramos, 29, a call-center agent from Quezon City, has had a productive cough for three weeks with afternoon fevers, night sweats, and weight loss. He is admitted to a city hospital after coughing up blood-streaked sputum and is later referred to the TB-DOTS facility in his barangay. Nurse Faye handles his care and teaching.",
+   "stem": "At the TB-DOTS facility, which statement by Jun-Jun indicates a need for further teaching?",
+   "choices": [
+    "\"I will take my tablets in front of my treatment partner.\"",
+    "\"I will cover my mouth when I cough or sneeze.\"",
+    "\"I can stop my tablets once my cough is gone.\"",
+    "\"My urine and tears may turn orange-red.\""
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Treatment must be completed for the full course (at least 6 months for drug-susceptible TB). Stopping early leads to relapse and drug-resistant TB.\nWhy not A: Correct: this is directly observed treatment.\nWhy not B: Correct: cough etiquette reduces spread.\nWhy not D: Correct: rifampicin causes harmless orange-red body fluids.",
+   "why": [
+    "Correct: this is directly observed treatment.",
+    "Correct: cough etiquette reduces spread.",
+    "Treatment must be completed for the full course (at least 6 months for drug-susceptible TB). Stopping early leads to relapse and drug-resistant TB.",
+    "Correct: rifampicin causes harmless orange-red body fluids."
+   ]
+  },
+  {
+   "n": 31,
+   "situation_label": "Situation 7",
+   "scenario": "Benjamin Tan, 66, a retired businessman from Cebu City with a 45 pack-year smoking history, is admitted to a private hospital for blood-streaked sputum, weight loss, and a voice that has become hoarse over the past month. A CT scan shows a central lung mass. Nurse Grace is assigned to him.",
+   "stem": "The nurse attributes Benjamin's hoarse voice to tumor involvement of the:",
+   "choices": [
+    "recurrent laryngeal nerve",
+    "phrenic nerve",
+    "hypoglossal nerve",
+    "intercostal nerves"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Understanding",
+   "rationale": "Why it is correct: The recurrent laryngeal nerve supplies the vocal cords. Compression by a central or mediastinal tumor causes vocal cord paralysis and hoarseness.\nWhy not B: Phrenic involvement paralyzes the diaphragm on that side, causing dyspnea rather than hoarseness.\nWhy not C: This nerve moves the tongue and is not affected by a lung mass.\nWhy not D: Chest-wall invasion of these nerves causes chest pain, not voice changes.",
+   "why": [
+    "The recurrent laryngeal nerve supplies the vocal cords. Compression by a central or mediastinal tumor causes vocal cord paralysis and hoarseness.",
+    "Phrenic involvement paralyzes the diaphragm on that side, causing dyspnea rather than hoarseness.",
+    "This nerve moves the tongue and is not affected by a lung mass.",
+    "Chest-wall invasion of these nerves causes chest pain, not voice changes."
+   ]
+  },
+  {
+   "n": 32,
+   "situation_label": "Situation 7",
+   "scenario": "Benjamin Tan, 66, a retired businessman from Cebu City with a 45 pack-year smoking history, is admitted to a private hospital for blood-streaked sputum, weight loss, and a voice that has become hoarse over the past month. A CT scan shows a central lung mass. Nurse Grace is assigned to him.",
+   "stem": "Benjamin undergoes flexible bronchoscopy with biopsy under topical anesthesia and sedation. After the procedure, the nurse should:",
+   "choices": [
+    "give ice chips right away to soothe his throat",
+    "keep him flat in bed for six to eight hours",
+    "report any blood-streaked sputum as an emergency",
+    "withhold food and fluids until his gag reflex returns"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Topical anesthesia of the throat suppresses the gag and cough reflexes, so the client is kept NPO until they return to prevent aspiration.\nWhy not A: Even ice chips can be aspirated while the gag reflex is absent.\nWhy not B: Semi-Fowler's or side-lying position is used, not flat; this is not a lumbar puncture.\nWhy not C: A small amount of blood-streaked sputum is expected after biopsy; frank bleeding is what must be reported.",
+   "why": [
+    "Even ice chips can be aspirated while the gag reflex is absent.",
+    "Semi-Fowler's or side-lying position is used, not flat; this is not a lumbar puncture.",
+    "A small amount of blood-streaked sputum is expected after biopsy; frank bleeding is what must be reported.",
+    "Topical anesthesia of the throat suppresses the gag and cough reflexes, so the client is kept NPO until they return to prevent aspiration."
+   ]
+  },
+  {
+   "n": 33,
+   "situation_label": "Situation 7",
+   "scenario": "Benjamin Tan, 66, a retired businessman from Cebu City with a 45 pack-year smoking history, is admitted to a private hospital for blood-streaked sputum, weight loss, and a voice that has become hoarse over the past month. A CT scan shows a central lung mass. Nurse Grace is assigned to him.",
+   "stem": "Biopsy confirms small cell carcinoma. On day 4, Benjamin's serum sodium is 122 mEq/L, he is confused, his urine is concentrated, and he has no edema. The nurse suspects:",
+   "choices": [
+    "ectopic Cushing syndrome",
+    "hypercalcemia of malignancy",
+    "SIADH",
+    "diabetes insipidus"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Small cell lung cancer can secrete ADH ectopically. Water is retained, producing dilutional hyponatremia with concentrated urine and no edema (syndrome of inappropriate antidiuretic hormone).\nWhy not A: Ectopic ACTH causes hypokalemia, hyperglycemia, and fluid retention, not this picture.\nWhy not B: Linked mostly to squamous cell carcinoma; it raises calcium rather than lowering sodium.\nWhy not D: DI causes dilute urine and high, not low, sodium.",
+   "why": [
+    "Ectopic ACTH causes hypokalemia, hyperglycemia, and fluid retention, not this picture.",
+    "Linked mostly to squamous cell carcinoma; it raises calcium rather than lowering sodium.",
+    "Small cell lung cancer can secrete ADH ectopically. Water is retained, producing dilutional hyponatremia with concentrated urine and no edema (syndrome of inappropriate antidiuretic hormone).",
+    "DI causes dilute urine and high, not low, sodium."
+   ]
+  },
+  {
+   "n": 34,
+   "situation_label": "Situation 7",
+   "scenario": "Benjamin Tan, 66, a retired businessman from Cebu City with a 45 pack-year smoking history, is admitted to a private hospital for blood-streaked sputum, weight loss, and a voice that has become hoarse over the past month. A CT scan shows a central lung mass. Nurse Grace is assigned to him.",
+   "stem": "A malignant pleural effusion develops, and thoracentesis is scheduled. How should the nurse position Benjamin for the procedure?",
+   "choices": [
+    "lying prone with both of his arms at his sides",
+    "in Trendelenburg position with his legs elevated",
+    "supine with the head of the bed kept flat",
+    "sitting up and leaning forward over the overbed table"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Sitting upright and leaning forward widens the intercostal spaces and lets fluid pool at the lung base, making needle entry safer.\nWhy not A: Prone position blocks access to the posterior chest and makes breathing harder.\nWhy not B: Head-down positioning worsens breathlessness and moves fluid away from the base.\nWhy not C: Lying flat spreads the fluid and makes access and breathing harder.",
+   "why": [
+    "Prone position blocks access to the posterior chest and makes breathing harder.",
+    "Head-down positioning worsens breathlessness and moves fluid away from the base.",
+    "Lying flat spreads the fluid and makes access and breathing harder.",
+    "Sitting upright and leaning forward widens the intercostal spaces and lets fluid pool at the lung base, making needle entry safer."
+   ]
+  },
+  {
+   "n": 35,
+   "situation_label": "Situation 7",
+   "scenario": "Benjamin Tan, 66, a retired businessman from Cebu City with a 45 pack-year smoking history, is admitted to a private hospital for blood-streaked sputum, weight loss, and a voice that has become hoarse over the past month. A CT scan shows a central lung mass. Nurse Grace is assigned to him.",
+   "stem": "Weeks later, Benjamin develops facial puffiness, swelling of both arms, and distended neck and chest-wall veins that worsen when he lies down. Which action should the nurse take first?",
+   "choices": [
+    "raise the head of the bed and notify the physician",
+    "apply warm compresses to reduce his facial swelling",
+    "insert the ordered IV line in his swollen right arm",
+    "lay him flat with both legs elevated on pillows"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: These findings point to superior vena cava syndrome from tumor compression, an oncologic emergency. Raising the head of the bed eases venous return from the upper body while urgent treatment is arranged.\nWhy not B: This does not address the obstruction and delays treatment.\nWhy not C: Upper-arm IV lines are avoided in SVC obstruction because of slow flow and thrombosis risk.\nWhy not D: Lying flat worsens upper-body venous congestion and breathlessness.",
+   "why": [
+    "These findings point to superior vena cava syndrome from tumor compression, an oncologic emergency. Raising the head of the bed eases venous return from the upper body while urgent treatment is arranged.",
+    "This does not address the obstruction and delays treatment.",
+    "Upper-arm IV lines are avoided in SVC obstruction because of slow flow and thrombosis risk.",
+    "Lying flat worsens upper-body venous congestion and breathlessness."
+   ]
+  },
+  {
+   "n": 36,
+   "situation_label": "Situation 8",
+   "scenario": "Lourdes Cruz, 62, a retired public school teacher from Davao City, is on her second postoperative day after a total hip replacement. She suddenly complains of sharp chest pain on inspiration and difficulty breathing, and coughs up blood-streaked sputum. Her RR is 30, HR 118, and SpO2 87%, and she appears anxious. Nurse Hannah responds.",
+   "stem": "Which action should Nurse Hannah take first?",
+   "choices": [
+    "help her walk in the hallway to ease breathing",
+    "position her upright and give oxygen as ordered",
+    "place her flat in a Trendelenburg position",
+    "massage her calves to check for a tender clot"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Sudden dyspnea, pleuritic chest pain, hemoptysis, and hypoxemia after hip surgery suggest pulmonary embolism. Upright positioning and oxygen address the immediate breathing problem while the physician is notified.\nWhy not A: Activity increases oxygen demand and is unsafe during an acute event.\nWhy not C: Head-down positioning worsens breathing.\nWhy not D: Massaging a leg with a possible DVT can dislodge more clot.",
+   "why": [
+    "Activity increases oxygen demand and is unsafe during an acute event.",
+    "Sudden dyspnea, pleuritic chest pain, hemoptysis, and hypoxemia after hip surgery suggest pulmonary embolism. Upright positioning and oxygen address the immediate breathing problem while the physician is notified.",
+    "Head-down positioning worsens breathing.",
+    "Massaging a leg with a possible DVT can dislodge more clot."
+   ]
+  },
+  {
+   "n": 37,
+   "situation_label": "Situation 8",
+   "scenario": "Lourdes Cruz, 62, a retired public school teacher from Davao City, is on her second postoperative day after a total hip replacement. She suddenly complains of sharp chest pain on inspiration and difficulty breathing, and coughs up blood-streaked sputum. Her RR is 30, HR 118, and SpO2 87%, and she appears anxious. Nurse Hannah responds.",
+   "stem": "A CT scan using intravenous dye to view the pulmonary arteries is ordered to confirm the diagnosis. Before the scan, which is most important for the nurse to check?",
+   "choices": [
+    "the result of her most recent sputum culture",
+    "the time of her last bowel movement",
+    "serum creatinine and prior reactions to contrast media",
+    "her ability to perform a forced expiration"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Iodinated contrast can harm the kidneys and trigger allergic reactions, so renal function and any history of contrast reactions are checked before CT pulmonary angiography.\nWhy not A: Culture results do not affect safety for a contrast study.\nWhy not B: Bowel habits have no bearing on a chest CT.\nWhy not D: Forced expiration is needed for spirometry, not CT.",
+   "why": [
+    "Culture results do not affect safety for a contrast study.",
+    "Bowel habits have no bearing on a chest CT.",
+    "Iodinated contrast can harm the kidneys and trigger allergic reactions, so renal function and any history of contrast reactions are checked before CT pulmonary angiography.",
+    "Forced expiration is needed for spirometry, not CT."
+   ]
+  },
+  {
+   "n": 38,
+   "situation_label": "Situation 8",
+   "scenario": "Lourdes Cruz, 62, a retired public school teacher from Davao City, is on her second postoperative day after a total hip replacement. She suddenly complains of sharp chest pain on inspiration and difficulty breathing, and coughs up blood-streaked sputum. Her RR is 30, HR 118, and SpO2 87%, and she appears anxious. Nurse Hannah responds.",
+   "stem": "Lourdes is started on a continuous IV infusion of unfractionated heparin. The nurse knows the dose is adjusted based on which laboratory result?",
+   "choices": [
+    "aPTT",
+    "D-dimer",
+    "INR",
+    "platelet count"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Understanding",
+   "rationale": "Why it is correct: The activated partial thromboplastin time is used to titrate unfractionated heparin (commonly to 1.5–2.5 times control, per protocol).\nWhy not B: A screening marker for clot breakdown; it is not used to adjust heparin.\nWhy not C: The INR monitors warfarin therapy.\nWhy not D: Checked to detect heparin-induced thrombocytopenia, but not used to set the dose.",
+   "why": [
+    "The activated partial thromboplastin time is used to titrate unfractionated heparin (commonly to 1.5–2.5 times control, per protocol).",
+    "A screening marker for clot breakdown; it is not used to adjust heparin.",
+    "The INR monitors warfarin therapy.",
+    "Checked to detect heparin-induced thrombocytopenia, but not used to set the dose."
+   ]
+  },
+  {
+   "n": 39,
+   "situation_label": "Situation 8",
+   "scenario": "Lourdes Cruz, 62, a retired public school teacher from Davao City, is on her second postoperative day after a total hip replacement. She suddenly complains of sharp chest pain on inspiration and difficulty breathing, and coughs up blood-streaked sputum. Her RR is 30, HR 118, and SpO2 87%, and she appears anxious. Nurse Hannah responds.",
+   "stem": "Lourdes's daughter asks, \"Will the heparin dissolve the clot in her lung?\" The nurse's best response is:",
+   "choices": [
+    "\"Yes, it thins her blood so the clot washes away quickly.\"",
+    "\"No, it is given mainly to relieve her chest pain and anxiety.\"",
+    "\"No, it stops the clot from growing while her body breaks it down.\"",
+    "\"Yes, it dissolves the clot completely within one or two days.\""
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Understanding",
+   "rationale": "Why it is correct: Anticoagulants prevent the clot from getting bigger and new clots from forming; the body's own fibrinolytic system gradually dissolves the existing clot. Only thrombolytics actively dissolve clots.\nWhy not A: Heparin does not thin the blood or wash clots away; this is a common misconception.\nWhy not B: Heparin has no analgesic or anti-anxiety effect.\nWhy not D: This describes thrombolytic therapy (e.g., alteplase), not heparin.",
+   "why": [
+    "Heparin does not thin the blood or wash clots away; this is a common misconception.",
+    "Heparin has no analgesic or anti-anxiety effect.",
+    "Anticoagulants prevent the clot from getting bigger and new clots from forming; the body's own fibrinolytic system gradually dissolves the existing clot. Only thrombolytics actively dissolve clots.",
+    "This describes thrombolytic therapy (e.g., alteplase), not heparin."
+   ]
+  },
+  {
+   "n": 40,
+   "situation_label": "Situation 8",
+   "scenario": "Lourdes Cruz, 62, a retired public school teacher from Davao City, is on her second postoperative day after a total hip replacement. She suddenly complains of sharp chest pain on inspiration and difficulty breathing, and coughs up blood-streaked sputum. Her RR is 30, HR 118, and SpO2 87%, and she appears anxious. Nurse Hannah responds.",
+   "stem": "Lourdes will go home on warfarin. Which dietary instruction is most appropriate?",
+   "choices": [
+    "\"Take a daily vitamin K supplement to prevent bleeding problems.\"",
+    "\"Keep your intake of malunggay and other greens consistent each day.\"",
+    "\"Avoid all green leafy vegetables for as long as you take it.\"",
+    "\"Eat extra servings of green vegetables to strengthen the medicine.\""
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Vitamin K counteracts warfarin. A steady daily intake keeps the INR stable; sudden increases or decreases cause the INR to swing.\nWhy not A: Vitamin K reverses warfarin and is given only as ordered for a high INR.\nWhy not C: Complete avoidance is unnecessary and makes the INR harder to control if intake later changes.\nWhy not D: More vitamin K weakens, not strengthens, the effect of warfarin.",
+   "why": [
+    "Vitamin K reverses warfarin and is given only as ordered for a high INR.",
+    "Vitamin K counteracts warfarin. A steady daily intake keeps the INR stable; sudden increases or decreases cause the INR to swing.",
+    "Complete avoidance is unnecessary and makes the INR harder to control if intake later changes.",
+    "More vitamin K weakens, not strengthens, the effect of warfarin."
+   ]
+  },
+  {
+   "n": 41,
+   "situation_label": "Situation 9",
+   "scenario": "Felipe Reyes, 64, a retired high school principal from Iloilo City, is seen at a pulmonology clinic for a year of slowly worsening breathlessness on exertion and a dry cough. High-resolution CT confirms idiopathic pulmonary fibrosis. Nurse Ian provides his education and care planning.",
+   "stem": "On physical examination of Felipe, which findings should the nurse expect?",
+   "choices": [
+    "expiratory wheezes and a barrel-shaped chest",
+    "inspiratory stridor with a hoarse voice",
+    "fine bibasilar crackles and digital clubbing",
+    "coarse rhonchi that clear after coughing"
+   ],
+   "correct": "C",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Understanding",
+   "rationale": "Why it is correct: IPF classically produces fine, 'Velcro-like' crackles at the lung bases and finger clubbing from chronic hypoxemia.\nWhy not A: These suggest obstructive disease such as asthma or COPD.\nWhy not B: Stridor indicates upper-airway obstruction.\nWhy not D: Rhonchi come from secretions in the large airways, not from fibrosis.",
+   "why": [
+    "These suggest obstructive disease such as asthma or COPD.",
+    "Stridor indicates upper-airway obstruction.",
+    "IPF classically produces fine, 'Velcro-like' crackles at the lung bases and finger clubbing from chronic hypoxemia.",
+    "Rhonchi come from secretions in the large airways, not from fibrosis."
+   ]
+  },
+  {
+   "n": 42,
+   "situation_label": "Situation 9",
+   "scenario": "Felipe Reyes, 64, a retired high school principal from Iloilo City, is seen at a pulmonology clinic for a year of slowly worsening breathlessness on exertion and a dry cough. High-resolution CT confirms idiopathic pulmonary fibrosis. Nurse Ian provides his education and care planning.",
+   "stem": "Felipe asks why he gets breathless so easily. The nurse's explanation is based on the knowledge that in his disease:",
+   "choices": [
+    "thick mucus plugs block the large airways",
+    "trapped air overinflates the alveoli during exhalation",
+    "reversible bronchospasm narrows the small airways",
+    "stiff, scarred lungs cannot expand fully with each breath"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Understanding",
+   "rationale": "Why it is correct: Fibrosis reduces lung compliance, so lung volumes fall and more effort is needed to breathe in. This is the hallmark of restrictive disease.\nWhy not A: Mucus plugging is seen in chronic bronchitis or cystic fibrosis.\nWhy not B: Air trapping and hyperinflation describe obstructive disease such as emphysema.\nWhy not C: Reversible bronchospasm is the mechanism of asthma.",
+   "why": [
+    "Mucus plugging is seen in chronic bronchitis or cystic fibrosis.",
+    "Air trapping and hyperinflation describe obstructive disease such as emphysema.",
+    "Reversible bronchospasm is the mechanism of asthma.",
+    "Fibrosis reduces lung compliance, so lung volumes fall and more effort is needed to breathe in. This is the hallmark of restrictive disease."
+   ]
+  },
+  {
+   "n": 43,
+   "situation_label": "Situation 9",
+   "scenario": "Felipe Reyes, 64, a retired high school principal from Iloilo City, is seen at a pulmonology clinic for a year of slowly worsening breathlessness on exertion and a dry cough. High-resolution CT confirms idiopathic pulmonary fibrosis. Nurse Ian provides his education and care planning.",
+   "stem": "Which activity plan should the nurse recommend so Felipe can conserve energy at home?",
+   "choices": [
+    "Hold his breath while lifting to steady his chest.",
+    "Sit while bathing and alternate tasks with rest periods.",
+    "Finish all household chores early in one session.",
+    "Avoid all physical activity to save his oxygen."
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Sitting during tasks and pacing activities with rest reduces oxygen demand and dyspnea while keeping him active.\nWhy not A: Breath-holding (Valsalva) strains the heart and lungs; he should exhale during exertion.\nWhy not C: Bunching tasks together causes exhaustion and desaturation.\nWhy not D: Inactivity causes deconditioning; paced activity and rehabilitation are encouraged.",
+   "why": [
+    "Breath-holding (Valsalva) strains the heart and lungs; he should exhale during exertion.",
+    "Sitting during tasks and pacing activities with rest reduces oxygen demand and dyspnea while keeping him active.",
+    "Bunching tasks together causes exhaustion and desaturation.",
+    "Inactivity causes deconditioning; paced activity and rehabilitation are encouraged."
+   ]
+  },
+  {
+   "n": 44,
+   "situation_label": "Situation 9",
+   "scenario": "Felipe Reyes, 64, a retired high school principal from Iloilo City, is seen at a pulmonology clinic for a year of slowly worsening breathlessness on exertion and a dry cough. High-resolution CT confirms idiopathic pulmonary fibrosis. Nurse Ian provides his education and care planning.",
+   "stem": "Felipe is prescribed home oxygen. Which home safety instruction is correct?",
+   "choices": [
+    "Keep the oxygen at least 3 meters from the LPG stove.",
+    "Turn up the oxygen flow on your own when breathless.",
+    "Apply petroleum jelly to the lips and nostrils for dryness.",
+    "Store the tank lying flat inside a closed cabinet."
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Oxygen supports combustion, so the source is kept about 3 meters (10 feet) from open flames and heat sources, with no smoking nearby.\nWhy not B: Flow should not be changed without a prescription, especially in clients at risk of CO2 retention.\nWhy not C: Petroleum-based products are flammable near oxygen; water-based lubricants are used.\nWhy not D: Tanks are stored upright, secured, and in a ventilated area.",
+   "why": [
+    "Oxygen supports combustion, so the source is kept about 3 meters (10 feet) from open flames and heat sources, with no smoking nearby.",
+    "Flow should not be changed without a prescription, especially in clients at risk of CO2 retention.",
+    "Petroleum-based products are flammable near oxygen; water-based lubricants are used.",
+    "Tanks are stored upright, secured, and in a ventilated area."
+   ]
+  },
+  {
+   "n": 45,
+   "situation_label": "Situation 9",
+   "scenario": "Felipe Reyes, 64, a retired high school principal from Iloilo City, is seen at a pulmonology clinic for a year of slowly worsening breathlessness on exertion and a dry cough. High-resolution CT confirms idiopathic pulmonary fibrosis. Nurse Ian provides his education and care planning.",
+   "stem": "Felipe is given oral prednisone during an acute exacerbation. At a follow-up visit, which finding should the nurse report promptly?",
+   "choices": [
+    "mild difficulty falling asleep at night",
+    "an increased appetite and a 1-kg weight gain",
+    "a rounder face than before he started treatment",
+    "capillary blood glucose of 265 mg/dL with frequent urination"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Steroid-induced hyperglycemia with polyuria needs prompt treatment to prevent dehydration and hyperglycemic complications.\nWhy not A: Insomnia is common and minor; taking the dose in the morning helps.\nWhy not B: Increased appetite and mild weight gain are expected side effects.\nWhy not C: Moon face is an expected cushingoid effect, not an urgent finding.",
+   "why": [
+    "Insomnia is common and minor; taking the dose in the morning helps.",
+    "Increased appetite and mild weight gain are expected side effects.",
+    "Moon face is an expected cushingoid effect, not an urgent finding.",
+    "Steroid-induced hyperglycemia with polyuria needs prompt treatment to prevent dehydration and hyperglycemic complications."
+   ]
+  },
+  {
+   "n": 46,
+   "situation_label": "Situation 10",
+   "scenario": "Ana Lim, 3, from Tarlac City, is brought to the emergency department of a provincial hospital at midnight. Within a few hours she developed a fever of 39.8 °C, drooling, and a muffled voice, and she now sits leaning forward with her chin thrust out. Her immunization record is incomplete. Nurse Joy is on duty in the pediatric unit.",
+   "stem": "Based on Ana's presentation, the nurse suspects:",
+   "choices": [
+    "acute epiglottitis",
+    "bronchiolitis",
+    "laryngotracheobronchitis",
+    "foreign body aspiration"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Sudden high fever, drooling, a muffled voice, and the tripod (sniffing) position in a child with incomplete immunization point to epiglottitis, a bacterial airway emergency.\nWhy not B: Affects infants with wheezing after a cold; it does not cause drooling or a muffled voice.\nWhy not C: Croup begins gradually with a barking cough, hoarseness, and low-grade fever, and drooling is unusual.\nWhy not D: Begins with sudden choking or coughing, usually without high fever.",
+   "why": [
+    "Sudden high fever, drooling, a muffled voice, and the tripod (sniffing) position in a child with incomplete immunization point to epiglottitis, a bacterial airway emergency.",
+    "Affects infants with wheezing after a cold; it does not cause drooling or a muffled voice.",
+    "Croup begins gradually with a barking cough, hoarseness, and low-grade fever, and drooling is unusual.",
+    "Begins with sudden choking or coughing, usually without high fever."
+   ]
+  },
+  {
+   "n": 47,
+   "situation_label": "Situation 10",
+   "scenario": "Ana Lim, 3, from Tarlac City, is brought to the emergency department of a provincial hospital at midnight. Within a few hours she developed a fever of 39.8 °C, drooling, and a muffled voice, and she now sits leaning forward with her chin thrust out. Her immunization record is incomplete. Nurse Joy is on duty in the pediatric unit.",
+   "stem": "Which action should Nurse Joy take first?",
+   "choices": [
+    "obtain a throat swab for culture before giving antibiotics",
+    "keep her upright on her mother's lap and avoid throat inspection",
+    "inspect her throat with a tongue depressor and a penlight",
+    "lay her supine on the stretcher for a neck x-ray"
+   ],
+   "correct": "B",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Agitating the child or inspecting the throat can trigger complete airway obstruction. Keep her calm and upright with her mother, and prepare for airway support by a skilled team.\nWhy not A: Swabbing is deferred until the airway is secured.\nWhy not C: Throat inspection can cause laryngospasm and total obstruction.\nWhy not D: Lying supine can close a swollen airway; securing the airway comes first.",
+   "why": [
+    "Swabbing is deferred until the airway is secured.",
+    "Agitating the child or inspecting the throat can trigger complete airway obstruction. Keep her calm and upright with her mother, and prepare for airway support by a skilled team.",
+    "Throat inspection can cause laryngospasm and total obstruction.",
+    "Lying supine can close a swollen airway; securing the airway comes first."
+   ]
+  },
+  {
+   "n": 48,
+   "situation_label": "Situation 10",
+   "scenario": "Ana Lim, 3, from Tarlac City, is brought to the emergency department of a provincial hospital at midnight. Within a few hours she developed a fever of 39.8 °C, drooling, and a muffled voice, and she now sits leaning forward with her chin thrust out. Her immunization record is incomplete. Nurse Joy is on duty in the pediatric unit.",
+   "stem": "Ana's mother asks how this illness could have been prevented. The nurse explains that the vaccine protecting against its usual cause is the:",
+   "choices": [
+    "pneumococcal vaccine",
+    "measles-rubella vaccine",
+    "BCG vaccine",
+    "Hib vaccine"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Remembering",
+   "rationale": "Why it is correct: Haemophilus influenzae type b is the classic cause of epiglottitis. The Hib vaccine, part of the pentavalent vaccine in the national immunization program, has made the disease rare.\nWhy not A: Protects against Streptococcus pneumoniae, not the usual cause of epiglottitis.\nWhy not B: Protects against measles and rubella.\nWhy not C: Protects infants against severe forms of tuberculosis.",
+   "why": [
+    "Protects against Streptococcus pneumoniae, not the usual cause of epiglottitis.",
+    "Protects against measles and rubella.",
+    "Protects infants against severe forms of tuberculosis.",
+    "Haemophilus influenzae type b is the classic cause of epiglottitis. The Hib vaccine, part of the pentavalent vaccine in the national immunization program, has made the disease rare."
+   ]
+  },
+  {
+   "n": 49,
+   "situation_label": "Situation 10",
+   "scenario": "Ana Lim, 3, from Tarlac City, is brought to the emergency department of a provincial hospital at midnight. Within a few hours she developed a fever of 39.8 °C, drooling, and a muffled voice, and she now sits leaning forward with her chin thrust out. Her immunization record is incomplete. Nurse Joy is on duty in the pediatric unit.",
+   "stem": "The next day, Ana's 4-month-old brother, Miguel, is admitted with bronchiolitis after a cold. He is wheezing, has thick secretions blocking his nose, and feeds poorly. Which intervention is a priority?",
+   "choices": [
+    "gentle nasal suctioning before feedings",
+    "chest physiotherapy every two hours",
+    "oral amoxicillin as first-line therapy",
+    "holding all feedings until wheezing stops"
+   ],
+   "correct": "A",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Applying",
+   "rationale": "Why it is correct: Infants are nose breathers. Clearing nasal secretions before feeds eases breathing and improves feeding; care for bronchiolitis is mainly supportive.\nWhy not B: Not recommended for bronchiolitis; it brings no benefit and distresses the infant.\nWhy not C: Bronchiolitis is viral (usually RSV); antibiotics do not help.\nWhy not D: Small, frequent feeds are preferred; feeds are held only in severe distress.",
+   "why": [
+    "Infants are nose breathers. Clearing nasal secretions before feeds eases breathing and improves feeding; care for bronchiolitis is mainly supportive.",
+    "Not recommended for bronchiolitis; it brings no benefit and distresses the infant.",
+    "Bronchiolitis is viral (usually RSV); antibiotics do not help.",
+    "Small, frequent feeds are preferred; feeds are held only in severe distress."
+   ]
+  },
+  {
+   "n": 50,
+   "situation_label": "Situation 10",
+   "scenario": "Ana Lim, 3, from Tarlac City, is brought to the emergency department of a provincial hospital at midnight. Within a few hours she developed a fever of 39.8 °C, drooling, and a muffled voice, and she now sits leaning forward with her chin thrust out. Her immunization record is incomplete. Nurse Joy is on duty in the pediatric unit.",
+   "stem": "Which finding in Miguel should the nurse report to the physician immediately?",
+   "choices": [
+    "respiratory rate of 44 breaths per minute at rest",
+    "a mild dry cough during his feedings",
+    "clear nasal discharge with occasional sneezing",
+    "grunting with nasal flaring and subcostal retractions"
+   ],
+   "correct": "D",
+   "subject": "Medical-Surgical Nursing",
+   "bloom": "Analyzing",
+   "rationale": "Why it is correct: Grunting, flaring, and retractions show increased work of breathing and impending respiratory failure in an infant, so they need urgent escalation.\nWhy not A: Within the normal infant range of about 30 to 60.\nWhy not B: A minor finding that needs monitoring, not urgent action.\nWhy not C: Expected with a viral upper respiratory infection.",
+   "why": [
+    "Within the normal infant range of about 30 to 60.",
+    "A minor finding that needs monitoring, not urgent action.",
+    "Expected with a viral upper respiratory infection.",
+    "Grunting, flaring, and retractions show increased work of breathing and impending respiratory failure in an infant, so they need urgent escalation."
+   ]
+  }
+ ]
+}
